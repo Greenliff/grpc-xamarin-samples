@@ -2,6 +2,7 @@
 Contains demo code showing how grpc works with Xamarin.Android
 
 Steps:
+
 0. You need Visual Studio 2017 and the Xamarin bits installed
 1. Add the following nuget feed for package restore to work: https://www.myget.org/F/greenliff-grpc/api/v3/index.json
 2. Get your own API credentials of type "service account" by registering on https://cloud.google.com/video-intelligence/docs/common/auth and saving the credentials to the file GrpcXamarinAndroidDemo/speech_auth.json
