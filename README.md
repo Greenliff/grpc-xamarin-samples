@@ -7,7 +7,10 @@ Steps:
 2. Get your own API credentials of type "service account" by registering on https://cloud.google.com/video-intelligence/docs/common/auth and saving the credentials to the file GrpcXamarinAndroidDemo/speech_auth.json
 3. Build, run and deploy the application to your mobile, you should see this:
 
-![Screenshot on phone](images/Screenshot.jpg)
+<p align="center">
+  <img src="images/Screenshot.jpg" />
+</p>
+<!---![Screenshot on phone](images/Screenshot.jpg)--->
 
 with the following output in the debug console after clicking the button in the app:
 
